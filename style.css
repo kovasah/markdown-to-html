@@ -1,9 +1,40 @@
 body {
-    background-color: #E0E3F9;
+    background-color: #8DA69E;
+    display: flex;
+    flex-direction: column;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    border: thick double white;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin: 0;
+}
+
+td {
+    border: solid #A87C70;
+    color: white;
+    background-color: #A87C70;
+    border-radius: 5px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
     display: flex;
     flex-direction: column;
 }
-h1 {
-    border: thick double #DBD0C5;
+
+li {
     
 }
+
