@@ -1,0 +1,9 @@
+body {
+    background-color: #E0E3F9;
+    display: flex;
+    flex-direction: column;
+}
+h1 {
+    border: thick double #DBD0C5;
+    
+}
